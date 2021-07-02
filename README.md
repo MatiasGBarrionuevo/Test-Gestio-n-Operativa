@@ -1,1 +1,2 @@
 # Test-Gestio-n-Operativa
+En este ejercicio  de Investigacion/Script  trabaje en la plataforma Phyton  y recorri todos los item que contiene el ID=179571326 , instalando previamente la  libreria  desde la api de Mercadolibre, y mediante un for recorri item por item  hasta obtenr el ID, TITLE, CATEGORY _ID y NAME.Para poder obtener  el resultado en txt se le agrera la extencion  archivo.write seguido al final \n para obtener todo el resultado en formato txt.

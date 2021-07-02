@@ -1,0 +1,250 @@
+ID item = MLA926238405
+title item = Disco Sólido Interno Kingston Sa400s37/480g 480gb Negro
+category_id item = MLA1672
+name category = Discos Rígidos y SSDs
+
+ID item = MLA915051639
+title item = Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I7 10510u  16gb De Ram 1tb Hdd 256gb Ssd, Nvidia Gefroce Mx230 1920x1080px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA874472550
+title item = Router Linksys Ea-series Ea6100 Negro 100v/240v
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA927112630
+title item = Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA923782218
+title item = Monitor Gamer Dell P2419h Led 24   Negro 100v/240v
+category_id item = MLA14407
+name category = Monitores
+
+ID item = MLA917485457
+title item = Monitor Dell E Series E2220h Led 21.5   Negro 100v/240v
+category_id item = MLA14407
+name category = Monitores
+
+ID item = MLA923612111
+title item = Switch Cisco Sg110-24 Small Business Serie 110
+category_id item = MLA1708
+name category = Switches
+
+ID item = MLA870592467
+title item = Router Linksys E2500 Negro
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA884735636
+title item = Router Cisco Rv Series Rv345 Negro 100v/240v
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA927887762
+title item = Monitor Gamer Dell Professional P2719h Led 27   Negro 100v/240v
+category_id item = MLA14407
+name category = Monitores
+
+ID item = MLA918321811
+title item = Monitor Dell E E2720h Led 27   Negro 100v/240v
+category_id item = MLA14407
+name category = Monitores
+
+ID item = MLA924366761
+title item =  Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA912269991
+title item =  Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA925187179
+title item =  Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA925474288
+title item =  Apc Easy Ups Bv Bv650i-ar 650va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA927113031
+title item = Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  8gb De Ram 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA923372796
+title item = Monitor Dell E E2420h Led 24   Negro 100v/240v
+category_id item = MLA14407
+name category = Monitores
+
+ID item = MLA927112732
+title item = Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA927153653
+title item = Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  12gb De Ram 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA927112638
+title item = Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  8gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA884735834
+title item = Repetidor Linksys Re6500 Negro
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA919422304
+title item = Access Point, Router Linksys Mr8300 Negro 100v/240v
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA927154124
+title item = Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  12gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA863267784
+title item = Monitor Gamer Dell Professional P2018h Led 20   Negro 100v/240v
+category_id item = MLA14407
+name category = Monitores
+
+ID item = MLA927846268
+title item =  Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA917516307
+title item =  Apc Smart-ups Srt Srt5kxli 5000va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA917515758
+title item =  Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA914633882
+title item = Access Point Interior Cisco 100 Series Wap150 Blanco
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA915052218
+title item = Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I7 10510u  8gb De Ram 256gb Ssd, Nvidia Geforce Mx230 1920x1080px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA914898074
+title item = Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd 240gb Ssd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA919620195
+title item = Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  16gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA927843593
+title item =  Apc Back-ups Bx1100ci-ar 1100va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA923578550
+title item = Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Uhd Graphics 620 1920x1080px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA927177803
+title item =  Apc Back-ups Bx550ci-ar 550va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA898898561
+title item = Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA926001777
+title item = Switch Linksys Se3005
+category_id item = MLA1708
+name category = Switches
+
+ID item = MLA925179224
+title item =  Apc Easy Ups Bv1000i-ar 1000va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA927759938
+title item = Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Hd Graphics 620 1366x768px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA927413664
+title item = Switch Cisco Sf220-24 Small Business Serie 220
+category_id item = MLA1708
+name category = Switches
+
+ID item = MLA914900871
+title item = Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  12gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA927409466
+title item = Switch Cisco Sf110-24 Serie 110
+category_id item = MLA1708
+name category = Switches
+
+ID item = MLA926280125
+title item =  Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA927178600
+title item =  Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA917518416
+title item = Switch Cisco Sg220-26p Small Business Serie 220
+category_id item = MLA1708
+name category = Switches
+
+ID item = MLA926291038
+title item =  Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA914895665
+title item = Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA919297554
+title item = Notebook Dell Vostro 3401 I3 16gb 1tb + 240ssd Win 10 Home
+category_id item = MLA1652
+name category = Notebooks
+
+ID item = MLA723894918
+title item = Router 16 Puertos Cisco Rv345-k9 Dual Wan Giga Vpn 16p Rv345
+category_id item = MLA430901
+name category = Routers
+
+ID item = MLA614270244
+title item = Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+category_id item = MLA1720
+name category = UPS
+
+ID item = MLA685442543
+title item = Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)
+category_id item = MLA1708
+name category = Switches
+
